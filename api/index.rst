@@ -14,6 +14,7 @@
    :maxdepth: 3
 
    overview
+   demoxy
    api
    demoxy
 
