@@ -16,7 +16,6 @@
    overview
    demoxy
    api
-   demoxy
 
 Индекс и таблицы
 ==================
