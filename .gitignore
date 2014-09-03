@@ -1,2 +1,5 @@
 api/_build
 **/_build
+api/.DS_Store
+.DS_Store
+*.swp

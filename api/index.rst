@@ -14,6 +14,7 @@
    :maxdepth: 2
 
    overview
+   demoxy
    api
 
 Индекс и таблицы
