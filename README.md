@@ -10,4 +10,4 @@ Development
 
     pip install sphinx_rtd_theme
 
-    pip install http://pypi.python.org/pypi/sphinxcontrib-httpdomain
+    pip install sphinxcontrib-httpdomain
