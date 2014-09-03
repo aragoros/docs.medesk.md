@@ -3,20 +3,22 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Welcome to MEDESK's documentation!
-==================================
+Добро пожаловать в документацию MEDESK!
+=======================================
 
-Contents:
+Най этой странице вы найдете описание ключевых особеннсотей архитектуры и принципов использования REST API MEDESK.
+
+Если вы все уже знаете, можете сразу перейти на описание сервисов.
 
 .. toctree::
    :maxdepth: 2
 
+   overview
+   api
 
-
-Indices and tables
+Индекс и таблицы
 ==================
 
 * :ref:`genindex`
 * :ref:`modindex`
 * :ref:`search`
-
