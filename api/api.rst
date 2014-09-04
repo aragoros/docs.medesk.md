@@ -1,7 +1,7 @@
 API
 ===============
 
-.. DANGER::
+.. ATTENTION::
    Текущая версия API имеет статус *DRAFT* и находиться в постоянной разработке.
    Это означает что часть методов и/или их сигнатур может быть изменена, в связи
    с чем, необходимо следить за изменениями в сервисе.
@@ -13,15 +13,12 @@ API
 Задачей авторизации является получения токена безопасности и может быть
 осуществлена через процедуры Resource Owner Credentials и Client Credentials
 определенные OAuth2.0. Для знакомство с технологией ``OAuth`` советуем
-ознакомиться со `статьей <http://habrahabr.ru/company/mailru/blog/115163/>`__, а
-так же обратиться к `официальной документации
-<http://tools.ietf.org/html/rfc6749>`__.
+ознакомиться со `статьей`_, а так же обратиться к `официальной спецификации протокола OAuth2.0`_.
 
 
 .. http:post:: /auth
 
-  Авторизовать пользователя и получить токен доступа ( `Resource Owner
-  Credentials <http://tools.ietf.org/html/rfc6749#section-4.3>`__ )
+  Авторизовать пользователя и получить токен доступа ( `Resource Owner Password Credentials Grant`_ )
 
   **Запрос**:
 
@@ -51,3 +48,6 @@ API
     }
 
 
+.. _статьей: http://habrahabr.ru/company/mailru/blog/115163/
+.. _официальной спецификации протокола OAuth2.0: http://tools.ietf.org/html/rfc6749
+.. _Resource Owner Password Credentials Grant: http://tools.ietf.org/html/rfc6749#section-4.3
