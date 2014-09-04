@@ -11,7 +11,7 @@
 Если вы все уже знаете, можете сразу перейти на описание сервисов.
 
 .. toctree::
-   :maxdepth: 3
+   :maxdepth: 1
 
    overview
    demoxy
