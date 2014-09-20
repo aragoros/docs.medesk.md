@@ -3,6 +3,13 @@ docs.medesk.md
 
 User's guide and API references
 
+Markdown vs reST
+----------------
+
+Unfortunately, Sphinx uses reStructured Text format, which is quite unusual and strage for those who used Markdown. Here is the cheat-sheet to help you:
+
+http://www.unexpected-vortices.com/doc-notes/markdown-and-rest-compared.html
+
 Development
 --------------
 
