@@ -395,9 +395,9 @@ elasticsearch по формату и сообщению совпадает с в
    операционной системы (полученной на шаге 1.):
 
 -  `32x разрядная
-   Windows <http://indy.fulgan.com/SSL/openssl-1.0.2-i386-win32.zip>`__
+   Windows <http://slproweb.com/download/Win32OpenSSL-1_0_2a.exe>`__
 -  `64x разрядная
-   Windows <http://indy.fulgan.com/SSL/openssl-1.0.2-x64_86-win64.zip>`__
+   Windows <http://slproweb.com/download/Win64OpenSSL-1_0_2a.exe>`__
 
 1. Запускаем дистрибутив и следуем предложенным инструкциям
 
