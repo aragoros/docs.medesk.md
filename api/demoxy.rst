@@ -400,13 +400,16 @@ elasticsearch по формату и сообщению совпадает с в
    Windows <http://slproweb.com/download/Win64OpenSSL_Light-1_0_2a.exe>`__
 
 2. Запускаем дистрибутив и следуем предложенным инструкциям
+
    1. Если появляется предупреждение о том что неустановленны компоненты
       ``Visual C++ 2008 Redistributables``, необходимо скачать и установить
       эти компоненты для вашей версии ОС Windows:
-      -  `32x разрядная
-         Windows <http://www.microsoft.com/downloads/details.aspx?familyid=9B2DA534-3E03-4391-8A4D-074B9F2BC1BF>`__
-      -  `64x разрядная
-         Windows <http://www.microsoft.com/downloads/details.aspx?familyid=bd2a6171-e2d6-4230-b809-9a8d7548c1b6>`__
+
+     -  `32x разрядная
+        Windows <http://www.microsoft.com/downloads/details.aspx?familyid=9B2DA534-3E03-4391-8A4D-074B9F2BC1BF>`__
+     -  `64x разрядная
+        Windows <http://www.microsoft.com/downloads/details.aspx?familyid=bd2a6171-e2d6-4230-b809-9a8d7548c1b6>`__
+
    2. Нажимаем ``Next``. |image13| |image14|
    3. Выбираем каталог установки и нажимаем ``Next`` (отмечено на
       скриншоте, по умолчанию стоит ``C:\OpenSSL-Win64`` для 64х
