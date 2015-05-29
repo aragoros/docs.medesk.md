@@ -399,8 +399,14 @@ elasticsearch по формату и сообщению совпадает с в
 -  `64x разрядная
    Windows <http://slproweb.com/download/Win64OpenSSL_Light-1_0_2a.exe>`__
 
-1. Запускаем дистрибутив и следуем предложенным инструкциям
-
+2. Запускаем дистрибутив и следуем предложенным инструкциям
+   1. Если появляется предупреждение о том что неустановленны компоненты
+      ``Visual C++ 2008 Redistributables``, необходимо скачать и установить
+      эти компоненты для вашей версии ОС Windows:
+      -  `32x разрядная
+         Windows <http://www.microsoft.com/downloads/details.aspx?familyid=9B2DA534-3E03-4391-8A4D-074B9F2BC1BF>`__
+      -  `64x разрядная
+         Windows <http://www.microsoft.com/downloads/details.aspx?familyid=bd2a6171-e2d6-4230-b809-9a8d7548c1b6>`__
    2. Нажимаем ``Next``. |image13| |image14|
    3. Выбираем каталог установки и нажимаем ``Next`` (отмечено на
       скриншоте, по умолчанию стоит ``C:\OpenSSL-Win64`` для 64х
@@ -513,8 +519,8 @@ elasticsearch по формату и сообщению совпадает с в
 
 ::
 
-    cp server.key site.key.org
-    openssl rsa -in site.key.org -out server.key
+    copy site.key site.key.org
+    openssl rsa -in site.key.org -out site.key
 
 После выполнения старый зашифрованный ключ будет храниться в файле
 ``site.key.org``, новый же дешифрованный ключ будет в
@@ -549,7 +555,7 @@ elasticsearch по формату и сообщению совпадает с в
 
 ::
 
-    Enter pass phrase for server.key: < Тут должна быть введена фраза-пароль, которая была задана на шаге 6.2 >
+    Enter pass phrase for site.key: < Тут должна быть введена фраза-пароль, которая была задана на шаге 6.2 >
 
 Установка ключа и сертификата для Demoxy
 ''''''''''''''''''''''''''''''''''''''''
