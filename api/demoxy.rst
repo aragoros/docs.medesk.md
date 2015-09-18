@@ -395,7 +395,7 @@ elasticsearch по формату и сообщению совпадает с в
    операционной системы (полученной на шаге 1.):
 
 -  `32x разрядная
-   Windows <http://slproweb.com/download/Win32OpenSSL_Light-1_0_2b.exe>`__
+   Windows <http://slproweb.com/download/Win32OpenSSL_Light-1_0_2d.exe>`__
 -  `64x разрядная
    Windows <http://slproweb.com/download/Win64OpenSSL_Light-1_0_2d.exe>`__
 
