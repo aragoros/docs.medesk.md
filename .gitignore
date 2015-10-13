@@ -3,3 +3,4 @@ api/_build
 api/.DS_Store
 .DS_Store
 *.swp
+api/npm-debug.log

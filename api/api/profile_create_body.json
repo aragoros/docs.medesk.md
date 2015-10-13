@@ -1,0 +1,23 @@
+{
+  "details": {
+    "education": [
+      {
+        "end": "1990 г.",
+        "enterprise": {
+          "general": {
+            "fullName": "Аспирантура"
+          }
+        }
+      }
+    ],
+    "overview": "Специалист по общей и пластической хирургии",
+    "rank": "Врач высшей категории. Доктор медицинских наук."
+  },
+  "general": {
+    "fname": "Николай",
+    "gender": "male",
+    "lname": "Каляев",
+    "mname": "Петрович",
+    "timezone": "Europe/Moscow"
+  }
+}

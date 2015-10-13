@@ -1,0 +1,52 @@
+{
+  "id": "561cdf859a459d839dec78de",
+  "url": "/profiles/561cdf859a459d839dec78de",
+  "acl": {
+    "general": 8,
+    "details": 8,
+    "grants": 8,
+    "subscriptions": 8,
+    "memberships": 8,
+    "calendars": 8,
+    "private": 8,
+    "acl": 8
+  },
+  "createdAt": "2014-07-22T10:18:41.122Z",
+  "updatedAt": "2015-10-12T06:39:28.207Z",
+  "general": {
+    "fname": "Иван",
+    "mname": "Иванович",
+    "lname": "Иванов",
+    "gender": "male",
+    "timezone": "Europe/Moscow",
+    "tags": [],
+    "fio": "Иванов Иван Иванович"
+  },
+  "contacts": {
+    "phones": [],
+    "emails": [
+      {
+        "id": "561cdf989a459d839dec78df",
+        "url": "/profiles/561cdf859a459d839dec78de/contacts/emails/561cdf989a459d839dec78df",
+        "value": "some@domain.com",
+        "verified": true,
+        "isMaster": true
+      }
+    ]
+  },
+  "grants": {
+    "clientCredentials": {
+      "client": "ivan"
+    },
+    "passwordCredentials": {
+      "username": "ivan"
+    }
+  },
+  "details": {
+    "experience": [],
+    "education": []
+  },
+  "membership": {
+    "default": "561cdf989a459d839dec78de"
+  }
+}
