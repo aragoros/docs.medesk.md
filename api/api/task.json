@@ -1,0 +1,28 @@
+{
+  "id": "5626a98bfa1668e31afe4ec5",
+  "name": "Известить пациента о переносе визита",
+  "desc": "Найти свободное время и известить по почте пациента",
+  "type": "general",
+  "status": "new",
+  "source": "web",
+  "dueDate": "2015-10-19T21:00:00.000Z",
+  "utmTerm": "",
+  "utmSource": "google",
+  "utmMedium": "cpc",
+  "utmContent": "logolink",
+  "utmCampaign": "spring_sale",
+  "createdByAt": "2015-10-20T20:52:27.119Z",
+  "createdBy": {
+    "id": "5626a5ccfa1668e31afe4ec1",
+    "isMembership": true,
+    "role": {
+      "id": "5626a5ccfa1668e31afe4ec0"
+    },
+    "profile": {
+      "id": "55e89d9ff4d2bee9096f1bc6"
+    },
+    "enterprise": {
+      "id": "5626a5ccfa1668e31afe4ebe"
+    }
+  }
+}

@@ -12,3 +12,4 @@ API
 * :doc:`./api/auth`
 * :doc:`./api/enterprises`
 * :doc:`./api/profiles`
+* :doc:`./api/tasks`
