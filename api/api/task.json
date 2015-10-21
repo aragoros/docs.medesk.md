@@ -1,7 +1,7 @@
 {
-  "id": "5626a98bfa1668e31afe4ec5",
-  "name": "Известить пациента о переносе визита",
-  "desc": "Найти свободное время и известить по почте пациента",
+  "id": "5627687d87f024542091c696",
+  "name": "Заявка на пробный курс",
+  "desc": "Связаться с клиентом и предложить время первого посещения",
   "type": "general",
   "status": "new",
   "source": "web",
@@ -10,19 +10,30 @@
   "utmSource": "google",
   "utmMedium": "cpc",
   "utmContent": "logolink",
-  "utmCampaign": "spring_sale",
-  "createdByAt": "2015-10-20T20:52:27.119Z",
+  "utmCampaign": "be_healthy",
+  "createdByAt": "2015-10-21T10:27:10.009Z",
   "createdBy": {
-    "id": "5626a5ccfa1668e31afe4ec1",
+    "id": "5627679687f024542091c690",
     "isMembership": true,
     "role": {
-      "id": "5626a5ccfa1668e31afe4ec0"
+      "id": "5627679687f024542091c68f",
+      "name": "Администратор",
+      "code": "administrator"
     },
     "profile": {
-      "id": "55e89d9ff4d2bee9096f1bc6"
+      "id": "553df25d2769468f0f392728",
+      "general": {
+        "fname": "Иванов",
+        "lname": "Иван",
+        "gender": "male"
+      }
     },
     "enterprise": {
-      "id": "5626a5ccfa1668e31afe4ebe"
+      "id": "5627679587f024542091c68d",
+      "general": {
+        "name": "Радуга",
+        "fullName": "Медицинский центр 'Радуга'"
+      }
     }
   }
 }
