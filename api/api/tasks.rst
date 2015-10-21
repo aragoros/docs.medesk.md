@@ -53,7 +53,7 @@ JSON формат
       "utmSource": "google",
       "utmMedium": "cpc",
       "utmContent": "logolink",
-      "utmCampaign": "be_healty"
+      "utmCampaign": "be_healthy"
     }
 
   :json string name: наименование поручения
