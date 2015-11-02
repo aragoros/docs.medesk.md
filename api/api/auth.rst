@@ -26,7 +26,7 @@ OAuth можно прочитав `статью`_, а для более дета
     Cache-Control: no-cache
     Content-Type: multipart/form-data
 
-  :fparam token_type: тип авторизации
+  :fparam grant_type: тип авторизации
   :fparam password: пароль пользователя
   :fparam username: логин пользователя
 
