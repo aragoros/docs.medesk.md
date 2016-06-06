@@ -64,7 +64,7 @@ Windows <http://support.microsoft.com/kb/827218/ru>`__
 базового комплекта программного обеспечения, в который входят:
 
 -  ``MongoDB ( >= 2.6.x)``
--  ``Nodejs ( >= 0.10.x; < 0.11.x)``
+-  ``Nodejs ( >= 0.10.x)``
 -  ``Elasticsearch ( >= 1.3.x)``
 
 Установка MongoDB
