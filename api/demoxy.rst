@@ -643,7 +643,7 @@ Demoxy) будет выведено несколько диагностичес�
 
   **Demoxy**
 
-  -  `demoxy v.1.0.18 <https://s3-eu-west-1.amazonaws.com/tn-releases/dmx/1.0.18-78f738c.zip>`__
+  -  `demoxy v.1.0.19 <https://s3-eu-west-1.amazonaws.com/tn-releases/dmx/1.0.19-38b8c93.zip>`__
 
 .. |image0| image:: _static/ii_3.png
 .. |image1| image:: _static/ii_4.png
