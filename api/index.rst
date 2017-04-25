@@ -15,6 +15,7 @@
 
    overview
    demoxy
+   importPatients
    api
    replication
 
