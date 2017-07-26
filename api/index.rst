@@ -18,6 +18,7 @@
    importPatients
    api
    replication
+   ecr
 
 Индекс и таблицы
 ==================
